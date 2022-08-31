@@ -5,6 +5,7 @@ import Loading from './Loading';
 
 const CocktailList = () => {
   const { cocktails, loading } = useGlobalContext();
+  console.log(cocktails);
 
   if (loading) {
     return <Loading />;
