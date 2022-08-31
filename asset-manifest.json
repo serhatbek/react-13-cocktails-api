@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-13-cocktails-api/static/css/main.274aee27.css",
-    "main.js": "/react-13-cocktails-api/static/js/main.fa57b5bc.js",
+    "main.js": "/react-13-cocktails-api/static/js/main.6fecffcf.js",
     "static/media/logo.svg": "/react-13-cocktails-api/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
     "index.html": "/react-13-cocktails-api/index.html",
     "main.274aee27.css.map": "/react-13-cocktails-api/static/css/main.274aee27.css.map",
-    "main.fa57b5bc.js.map": "/react-13-cocktails-api/static/js/main.fa57b5bc.js.map"
+    "main.6fecffcf.js.map": "/react-13-cocktails-api/static/js/main.6fecffcf.js.map"
   },
   "entrypoints": [
     "static/css/main.274aee27.css",
-    "static/js/main.fa57b5bc.js"
+    "static/js/main.6fecffcf.js"
   ]
 }
